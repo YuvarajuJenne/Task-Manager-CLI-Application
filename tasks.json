@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "easy syntax",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "it is a high level language",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "abc",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "efg",
+        "completed": false
+    }
+]
