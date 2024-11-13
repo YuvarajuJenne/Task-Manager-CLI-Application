@@ -62,4 +62,4 @@ The program includes error handling for:
 - Empty task titles when adding a task.
 
 ## File Persistence
-The tasks are saved in `tasks.json `, and this file is loaded each time the program starts. If the file is corrupted or missing, the application will start with an empty task list.
+The tasks are saved in `tasks.json`, and this file is loaded each time the program starts. If the file is corrupted or missing, the application will start with an empty task list.
